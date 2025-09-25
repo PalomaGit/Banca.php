@@ -1,0 +1,14 @@
+#principal {
+  padding: 40px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.fila-modificable {
+  border: 2px solid gray !important;
+}
+
+.fila-modificable td {
+  background-color: orange;
+}
