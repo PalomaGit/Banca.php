@@ -39,7 +39,7 @@ require "orden.php";
           <th><a href="?orderby=dni" style="text-decoration: none; color: black;">DNI  ⬆️</a></th>
           <th><a href="?orderby=nombre" style="text-decoration: none; color: black;">Nombre  ⬆️</a></th>
           <th><a href="?orderby=direccion" style="text-decoration: none; color: black;">Dirección  ⬆️</a></th>
-          <th><a href="?orderby=dni" style="text-decoration: none; color: black;">Teléfono  ⬆️</a></th>
+          <th><a href="?orderby=telefono" style="text-decoration: none; color: black;">Teléfono  ⬆️</a></th>
           <th></th>
           <th></th>
         </tr>
